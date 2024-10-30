@@ -8,9 +8,6 @@ Nice to meet you guy!! :)
 * ✉️  You can contact me at [touy1230a@gmail.com](mailto:touy1230a@gmail.com)
 * 🧠  I'm learning Computer Science
 
-<p align="center">
-  <img src="<iframe src="https://giphy.com/embed/IpeYSEZshTefe" width="480" height="346" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/computer-typing-nickelodeon-IpeYSEZshTefe">via GIPHY</a></p>" width="100" height="100" />
-</p>
 
 ### Skills
 
