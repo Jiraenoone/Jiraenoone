@@ -8,6 +8,9 @@ Nice to meet you guy!! :)
 * ✉️  You can contact me at [touy1230a@gmail.com](mailto:touy1230a@gmail.com)
 * 🧠  I'm learning Computer Science
 
+<p align="center">
+  <img src="https://media.giphy.com/media/IpeYSEZshTefe/giphy.gif" width="480" height="346" />
+</p>
 
 ### Skills
 
